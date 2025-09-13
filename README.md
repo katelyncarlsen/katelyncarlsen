@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently learning **R, SPSS**
 
-- 📫 How to reach me **katelyncarlsen@usf.edu**
+- 📫 Want to reach me? **katelyncarlsen@usf.edu**
 
 - 📄 Learn about my experiences! [https://katelyn-carlsen-resume-2025.tiiny.site/](https://katelyn-carlsen-resume-2025.tiiny.site/)
 
