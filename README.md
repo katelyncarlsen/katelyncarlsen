@@ -1,11 +1,11 @@
 <h1 align="center">Hi! I'm Katelyn</h1>
-<h3 align="center">A college student at the University of South Florida passionate about machine-learning applications to neuroscience.</h3>
+<h3 align="center">A student at the University of South Florida passionate about machine-learning applications to neuroscience.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katelyncarlsen" alt="katelyncarlsen" /></a> </p>
 
 - 🌱 I’m currently working on **developing my skills in machine learning.**
 
-- 📫 How to reach me **katelyncarlsen@usf.edu**
+- 📫 How to reach me: **katelyncarlsen@usf.edu**
 
 - 📄 Learn about my experiences! [https://katelyn-carlsen-resume-2025.tiiny.site/](https://katelyn-carlsen-resume-2025.tiiny.site/)
 
