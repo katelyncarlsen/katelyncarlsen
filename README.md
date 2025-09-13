@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Katelyn</h1>
+<h1 align="center">Hi! I'm Katelyn Carlsen</h1>
 <h3 align="center">A student at the University of South Florida passionate about machine-learning applications to neuroscience 🧠</h3>
 
 - 🌱 I’m currently working on **developing my skills in machine learning.**
