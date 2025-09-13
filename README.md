@@ -1,9 +1,11 @@
 <h1 align="center">Hi! I'm Katelyn</h1>
-<h3 align="center">A student at the University of South Florida passionate about machine-learning applications to neuroscience.</h3>
+<h3 align="center">A student at the University of South Florida passionate about machine-learning applications to neuroscience 🧠</h3>
 
 - 🌱 I’m currently working on **developing my skills in machine learning.**
 
-- 📫 Want to reach me? **katelyncarlsen@usf.edu**
+- 🔭 I'm currently learning **R, SPSS**
+
+- 📫 How to reach me **katelyncarlsen@usf.edu**
 
 - 📄 Learn about my experiences! [https://katelyn-carlsen-resume-2025.tiiny.site/](https://katelyn-carlsen-resume-2025.tiiny.site/)
 
