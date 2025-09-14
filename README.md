@@ -1,9 +1,11 @@
 <h1 align="center">Hi! I'm Katelyn Carlsen</h1>
-<h3 align="center">A student at the University of South Florida passionate about machine-learning applications to neuroscience 🧠</h3>
+<h3 align="center">A student at the University of South Florida passionate about machine-learning and its applications to neuroscience 🧠</h3>
 
 - 🌱 I’m currently working on **developing my skills in machine learning.**
 
 - 🔭 I'm currently learning **R, SPSS**
+
+- 🧩 I'm currently practicing **Git**
 
 - 📫 Want to reach me? **katelyncarlsen@usf.edu**
 
